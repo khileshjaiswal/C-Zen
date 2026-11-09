@@ -1,2 +1,2 @@
-# C-Zen
+# Zen-C
 Exam feel
